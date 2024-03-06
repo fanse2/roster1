@@ -1,0 +1,21 @@
+.w-odr{
+    width: 30px;
+}
+.w-pos{
+    width: 80px;
+}
+.text-align-center{
+    text-align: center;
+}
+#team-name{
+    outline: none;
+    border-width: 0;
+}
+#team-name:focus{
+    border-width: 2px;
+}
+#qrcode {
+    width:160px;
+    height:160px;
+    margin-top:15px;
+  }
